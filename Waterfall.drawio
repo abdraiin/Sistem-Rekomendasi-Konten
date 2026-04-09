@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3">
+  <diagram name="Page-1" id="rZwhsU4Jzsgdf1Lufa-V">
+    <mxGraphModel dx="1034" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Analisis&lt;div&gt;Permasalahan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-2" edge="1" parent="1" source="o_vANp5fW5xPPsLNYVYr-1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="110" />
+            </Array>
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Analisis&lt;div&gt;Kebutuhan Sistem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="190" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Analisis Kebutuhan&lt;br&gt;&lt;div&gt;Data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="290" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="200" />
+            </Array>
+            <mxPoint x="300" y="200" as="sourcePoint" />
+            <mxPoint x="345" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-6" edge="1" parent="1" source="o_vANp5fW5xPPsLNYVYr-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="o_vANp5fW5xPPsLNYVYr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Perancangan&lt;div&gt;Sistem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="390" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="280" />
+            </Array>
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="445" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Desain&lt;div&gt;Rancangan Sistem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="490" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="360" />
+            </Array>
+            <mxPoint x="500" y="360" as="sourcePoint" />
+            <mxPoint x="545" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Penerapan Metode&lt;div&gt;Pada Sistem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="590" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="440" />
+            </Array>
+            <mxPoint x="600" y="440" as="sourcePoint" />
+            <mxPoint x="645" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pembuatan Sistem" vertex="1">
+          <mxGeometry height="60" width="110" x="690" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="520" />
+            </Array>
+            <mxPoint x="700" y="520" as="sourcePoint" />
+            <mxPoint x="745" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pengujian&lt;div&gt;Sistem&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="790" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="845" y="600" />
+            </Array>
+            <mxPoint x="800" y="600" as="sourcePoint" />
+            <mxPoint x="845" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Hasil&lt;div&gt;Sistem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="890" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="o_vANp5fW5xPPsLNYVYr-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o_vANp5fW5xPPsLNYVYr-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="945" y="680" />
+            </Array>
+            <mxPoint x="900" y="680" as="sourcePoint" />
+            <mxPoint x="945" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
