@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="speLV1Djlf2JC0n1AeEB">
-    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hS7FKWWGl_pJqaVFx0S_-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" value="Activity Diagram" vertex="1">
-          <mxGeometry height="770" width="600" x="250" y="50" as="geometry" />
+          <mxGeometry height="770" width="620" x="250" y="50" as="geometry" />
         </mxCell>
         <mxCell id="hS7FKWWGl_pJqaVFx0S_-2" parent="hS7FKWWGl_pJqaVFx0S_-1" style="swimlane;startSize=20;" value="Admin" vertex="1">
           <mxGeometry height="770" width="300" x="20" as="geometry" />
@@ -28,7 +28,7 @@
           <mxGeometry height="65" width="130" x="85" y="350" as="geometry" />
         </mxCell>
         <mxCell id="hS7FKWWGl_pJqaVFx0S_-3" parent="hS7FKWWGl_pJqaVFx0S_-1" style="swimlane;startSize=20;" value="System" vertex="1">
-          <mxGeometry height="770" width="280" x="320" as="geometry" />
+          <mxGeometry height="770" width="300" x="320" as="geometry" />
         </mxCell>
         <mxCell id="hS7FKWWGl_pJqaVFx0S_-11" parent="hS7FKWWGl_pJqaVFx0S_-3" style="whiteSpace=wrap;html=1;rounded=1;" value="Menampilkan&lt;div&gt;Menu Beranda&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="95" as="geometry" />
