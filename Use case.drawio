@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0">
   <diagram name="Page-1" id="5vpCVKnZqiLI7tc_2s8S">
-    <mxGraphModel dx="724" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,11 +70,8 @@
             <mxPoint x="190" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UN-H703fZ_ug_Up6OHEX-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Jumlah Konten&lt;div&gt;Yang Muncul&lt;/div&gt;&lt;div&gt;(5,10,15,dan20)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="370" y="420" as="geometry" />
-        </mxCell>
         <mxCell id="UN-H703fZ_ug_Up6OHEX-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konten Muncul&lt;div&gt;Sesuai Klasifikasi&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Usia&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="135" x="450" y="340" as="geometry" />
+          <mxGeometry height="70" width="135" x="385" y="370" as="geometry" />
         </mxCell>
         <mxCell id="UN-H703fZ_ug_Up6OHEX-27" edge="1" parent="1" source="Dk5r0p68mLP9KgFzM2Ou-1" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.975;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" target="UN-H703fZ_ug_Up6OHEX-26" value="">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -82,20 +79,11 @@
             <mxPoint x="510" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UN-H703fZ_ug_Up6OHEX-28" edge="1" parent="1" source="Dk5r0p68mLP9KgFzM2Ou-1" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="UN-H703fZ_ug_Up6OHEX-25" value="">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="285" y="380" as="sourcePoint" />
-            <mxPoint x="510" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UN-H703fZ_ug_Up6OHEX-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="365" y="310" as="geometry" />
-        </mxCell>
-        <mxCell id="UN-H703fZ_ug_Up6OHEX-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="330" y="370" as="geometry" />
+          <mxGeometry height="30" width="60" x="365" y="320" as="geometry" />
         </mxCell>
         <mxCell id="UN-H703fZ_ug_Up6OHEX-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
-          <mxGeometry height="50" width="120" x="240" y="500" as="geometry" />
+          <mxGeometry height="50" width="120" x="265" y="450" as="geometry" />
         </mxCell>
         <mxCell id="UN-H703fZ_ug_Up6OHEX-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="UN-H703fZ_ug_Up6OHEX-34" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -167,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dk5r0p68mLP9KgFzM2Ou-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mengelola&lt;div&gt;Akun User&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="670" y="410" as="geometry" />
+          <mxGeometry height="50" width="110" x="625" y="420" as="geometry" />
         </mxCell>
         <mxCell id="Dk5r0p68mLP9KgFzM2Ou-17" edge="1" parent="1" source="4B29CkJcDoayJ9IUvnUi-1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dk5r0p68mLP9KgFzM2Ou-18" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -185,19 +173,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dk5r0p68mLP9KgFzM2Ou-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="500" y="280" as="geometry" />
+          <mxGeometry height="30" width="60" x="480" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="Dk5r0p68mLP9KgFzM2Ou-21" edge="1" parent="1" source="Dk5r0p68mLP9KgFzM2Ou-14" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dk5r0p68mLP9KgFzM2Ou-23" value="">
+        <mxCell id="Dk5r0p68mLP9KgFzM2Ou-21" edge="1" parent="1" source="Dk5r0p68mLP9KgFzM2Ou-14" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.545;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dk5r0p68mLP9KgFzM2Ou-23" value="">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="600" y="240" as="sourcePoint" />
-            <mxPoint x="670" y="350" as="targetPoint" />
+            <mxPoint x="630" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dk5r0p68mLP9KgFzM2Ou-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="720" y="300" as="geometry" />
+          <mxGeometry height="30" width="60" x="680" y="310" as="geometry" />
         </mxCell>
         <mxCell id="Dk5r0p68mLP9KgFzM2Ou-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Konten Dihapus&lt;div&gt;Pada Database&lt;/div&gt;&lt;div&gt;Dan Website&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="600" y="330" as="geometry" />
+          <mxGeometry height="60" width="160" x="530" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
