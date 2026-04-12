@@ -10,22 +10,28 @@
         <mxCell id="jvLcR5TQPMbckMvlempQ-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="MULAI" vertex="1">
           <mxGeometry height="30" width="80" x="325" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="jvLcR5TQPMbckMvlempQ-7" edge="1" parent="1" source="jvLcR5TQPMbckMvlempQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvLcR5TQPMbckMvlempQ-6" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jvLcR5TQPMbckMvlempQ-7" edge="1" parent="1" source="jvLcR5TQPMbckMvlempQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="160" />
+              <mxPoint x="365" y="160" />
+            </Array>
+            <mxPoint x="365" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jvLcR5TQPMbckMvlempQ-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=0;" value="Masukan Tanggal&lt;div&gt;Lahir Pengguna&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="297.5" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="jvLcR5TQPMbckMvlempQ-9" edge="1" parent="1" source="jvLcR5TQPMbckMvlempQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvLcR5TQPMbckMvlempQ-8" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jvLcR5TQPMbckMvlempQ-16" edge="1" parent="1" source="jvLcR5TQPMbckMvlempQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jvLcR5TQPMbckMvlempQ-17" value="">
+        <mxCell id="jvLcR5TQPMbckMvlempQ-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jvLcR5TQPMbckMvlempQ-8" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="220" as="targetPoint" />
+            <mxPoint x="365" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jvLcR5TQPMbckMvlempQ-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Usia &lt;/span&gt;&lt;font face=&quot;Roboto, Helvetica, sans-serif&quot; style=&quot;color: light-dark(rgb(237, 237, 237), rgb(255, 255, 255));&quot;&gt;&amp;lt;=12&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="325" y="180" as="geometry" />
+        <mxCell id="jvLcR5TQPMbckMvlempQ-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jvLcR5TQPMbckMvlempQ-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jvLcR5TQPMbckMvlempQ-11" edge="1" parent="1" source="jvLcR5TQPMbckMvlempQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" target="jvLcR5TQPMbckMvlempQ-12" value="">
           <mxGeometry relative="1" as="geometry">
@@ -161,6 +167,9 @@
         </mxCell>
         <mxCell id="jvLcR5TQPMbckMvlempQ-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=0;" value="G" vertex="1">
           <mxGeometry height="40" width="45" x="567.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="vCePJSAdS6UQ2wfp__IE-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" value="Usia &amp;lt;=12?" vertex="1">
+          <mxGeometry height="80" width="80" x="325" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
