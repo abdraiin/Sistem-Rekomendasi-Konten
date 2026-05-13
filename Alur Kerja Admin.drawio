@@ -1,9 +1,40 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ITWId5PIDMzIx98-6p1H">
-    <mxGraphModel>
+    <mxGraphModel dx="528" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-1" edge="1" parent="1" source="PBoxHEOGsvr7Fd3GS0Nz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PBoxHEOGsvr7Fd3GS0Nz-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Admin" vertex="1">
+          <mxGeometry height="50" width="95" x="608" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-26" edge="1" parent="1" source="PBoxHEOGsvr7Fd3GS0Nz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PBoxHEOGsvr7Fd3GS0Nz-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Membuka sistem&lt;div&gt;Melalui Browser&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="595" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-28" edge="1" parent="1" source="PBoxHEOGsvr7Fd3GS0Nz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PBoxHEOGsvr7Fd3GS0Nz-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Melakukan Proses&lt;div&gt;Login&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="595" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-30" edge="1" parent="1" source="PBoxHEOGsvr7Fd3GS0Nz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PBoxHEOGsvr7Fd3GS0Nz-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Masukan Username&lt;div&gt;Dan Password Admin&lt;/div&gt;&lt;div&gt;Yang Sudah Ditetapkan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="125" x="592.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-29" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Menampilkan Halaman Utama Admin" vertex="1">
+          <mxGeometry height="60" width="120" x="595" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
