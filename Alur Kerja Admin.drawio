@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ITWId5PIDMzIx98-6p1H">
-    <mxGraphModel dx="1057" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,8 +32,89 @@
         <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Masukan Username&lt;div&gt;Dan Password Admin&lt;/div&gt;&lt;div&gt;Yang Sudah Ditetapkan&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="592.5" y="370" as="geometry" />
         </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-2" edge="1" parent="1" source="PBoxHEOGsvr7Fd3GS0Nz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-6" edge="1" parent="1" source="PBoxHEOGsvr7Fd3GS0Nz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-10" edge="1" parent="1" source="PBoxHEOGsvr7Fd3GS0Nz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PBoxHEOGsvr7Fd3GS0Nz-29" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Menampilkan Halaman Utama Admin" vertex="1">
           <mxGeometry height="60" width="120" x="595" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-4" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="600" />
+              <mxPoint x="320" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Admin Meng-Klik Menu Kelola Konten&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-12" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-14" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-17" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Menampilkan Data&lt;div&gt;Konten Yang Terhubung Dengan Database&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="250" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-8" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Admin Meng-Klik&lt;div&gt;Tombol Logout&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="595.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Menampilkan Menu&lt;div&gt;Halaman Awal Website&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="595.5" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-24" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Admin Meng-Klik Tombol Kelola User" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Tambah Data Konten Pada Sistem" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Mengedit Data Konten" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Menghapus Data Konten" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-18" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-19" edge="1" parent="1" source="XiAzmxlsnCC_sS_hotal-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XiAzmxlsnCC_sS_hotal-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Menampilkan Data&lt;div&gt;Konten Yang Terhubung Dengan Database&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="910" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Mengedit Data User" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="XiAzmxlsnCC_sS_hotal-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Menghapus Data User" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
