@@ -85,7 +85,7 @@
         <mxCell id="lzWw5sWDEm7a8vB0P0iV-6" parent="lzWw5sWDEm7a8vB0P0iV-4" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="10" width="160" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="lzWw5sWDEm7a8vB0P0iV-8" parent="lzWw5sWDEm7a8vB0P0iV-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; +tambah_konten()&lt;div&gt;&amp;nbsp; +hapus_konten()&lt;/div&gt;&lt;div&gt;&amp;nbsp; +tampil_konten()&lt;/div&gt;" vertex="1">
+        <mxCell id="lzWw5sWDEm7a8vB0P0iV-8" parent="lzWw5sWDEm7a8vB0P0iV-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; +hasil_klasifikasi_konten()&lt;div&gt;&amp;nbsp; +proses_data_uji()&lt;/div&gt;&lt;div&gt;&amp;nbsp; +kategori_usia_konten()&lt;/div&gt;" vertex="1">
           <mxGeometry height="54" width="160" y="100" as="geometry" />
         </mxCell>
       </root>
